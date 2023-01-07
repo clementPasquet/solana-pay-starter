@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Persos starter pack",
+    "price": "0.09",
+    "description": "Get the starter team of champ and begin your adventure",
+    "filename": "persos.zip",
+    "image_url": "donjon.jpeg",
+    "hash": "QmSXZyqNDgjwkkRTwsrNv5AiBzhVrq7xDqnw6oMRtRB8c2"
+  }
+]
